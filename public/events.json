@@ -1,0 +1,253 @@
+{
+  "events": [
+    {
+      "id": "evt_001",
+      "title": "Clash between AL and BNP supporters in Dhaka",
+      "summary": "Violent confrontation erupted during a political rally in Dhanmondi area, resulting in multiple injuries and property damage.",
+      "location": {
+        "lat": 23.7465,
+        "lng": 90.3765,
+        "address": "Dhanmondi, Dhaka",
+        "division": "Dhaka",
+        "district": "Dhaka"
+      },
+      "casualties": {
+        "injured": 12,
+        "dead": 0
+      },
+      "politicalParty": "Awami League",
+      "opposingParty": "Bangladesh Nationalist Party",
+      "date": "2024-01-15T14:30:00Z",
+      "severity": "medium",
+      "imageUrl": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400",
+      "source": "Daily Star",
+      "verified": true
+    },
+    {
+      "id": "evt_002", 
+      "title": "Student protest turns violent in Chittagong",
+      "summary": "University students demanding quota reform clashed with police, leading to tear gas deployment and several arrests.",
+      "location": {
+        "lat": 22.3569,
+        "lng": 91.7832,
+        "address": "Chittagong University area",
+        "division": "Chittagong",
+        "district": "Chittagong"
+      },
+      "casualties": {
+        "injured": 8,
+        "dead": 0
+      },
+      "politicalParty": "Student Organizations",
+      "opposingParty": "Law Enforcement",
+      "date": "2024-01-20T11:15:00Z",
+      "severity": "medium",
+      "imageUrl": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400",
+      "source": "Prothom Alo",
+      "verified": true
+    },
+    {
+      "id": "evt_003",
+      "title": "Bomb explosion at BNP rally in Sylhet",
+      "summary": "A crude bomb exploded during a BNP political gathering, causing panic and injuries among attendees.",
+      "location": {
+        "lat": 24.8949,
+        "lng": 91.8687,
+        "address": "Sylhet Sadar",
+        "division": "Sylhet",
+        "district": "Sylhet"
+      },
+      "casualties": {
+        "injured": 15,
+        "dead": 2
+      },
+      "politicalParty": "Bangladesh Nationalist Party",
+      "opposingParty": "Unknown",
+      "date": "2024-01-25T16:45:00Z",
+      "severity": "high",
+      "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400",
+      "source": "Bangladesh Sangbad Sangstha",
+      "verified": true
+    },
+    {
+      "id": "evt_004",
+      "title": "Police action against Jamaat-e-Islami procession",
+      "summary": "Law enforcement dispersed an unauthorized procession by Jamaat-e-Islami activists in Rajshahi.",
+      "location": {
+        "lat": 24.3745,
+        "lng": 88.6042,
+        "address": "Rajshahi city center",
+        "division": "Rajshahi",
+        "district": "Rajshahi"
+      },
+      "casualties": {
+        "injured": 6,
+        "dead": 0
+      },
+      "politicalParty": "Jamaat-e-Islami",
+      "opposingParty": "Law Enforcement",
+      "date": "2024-02-01T09:30:00Z",
+      "severity": "low",
+      "imageUrl": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=400",
+      "source": "New Age",
+      "verified": true
+    },
+    {
+      "id": "evt_005",
+      "title": "Factory worker protest in Gazipur",
+      "summary": "Garment workers demanding wage increases clashed with factory security and police forces.",
+      "location": {
+        "lat": 23.9999,
+        "lng": 90.4203,
+        "address": "Gazipur Industrial Area",
+        "division": "Dhaka",
+        "district": "Gazipur"
+      },
+      "casualties": {
+        "injured": 20,
+        "dead": 1
+      },
+      "politicalParty": "Labor Organizations",
+      "opposingParty": "Factory Management",
+      "date": "2024-02-05T13:20:00Z",
+      "severity": "high",
+      "imageUrl": "https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?w=400",
+      "source": "Dhaka Tribune",
+      "verified": true
+    },
+    {
+      "id": "evt_006",
+      "title": "Communal tension in Cumilla",
+      "summary": "Religious tensions escalated into violence during a local festival, affecting minority communities.",
+      "location": {
+        "lat": 23.4607,
+        "lng": 91.1809,
+        "address": "Cumilla Sadar",
+        "division": "Chittagong",
+        "district": "Cumilla"
+      },
+      "casualties": {
+        "injured": 10,
+        "dead": 0
+      },
+      "politicalParty": "Religious Groups",
+      "opposingParty": "Minority Communities",
+      "date": "2024-02-10T18:00:00Z",
+      "severity": "medium",
+      "imageUrl": "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?w=400",
+      "source": "United News of Bangladesh",
+      "verified": false
+    },
+    {
+      "id": "evt_007",
+      "title": "Election violence in Barisal",
+      "summary": "Clashes between rival political groups during local government elections resulted in multiple casualties.",
+      "location": {
+        "lat": 22.7010,
+        "lng": 90.3535,
+        "address": "Barisal Municipality",
+        "division": "Barisal",
+        "district": "Barisal"
+      },
+      "casualties": {
+        "injured": 18,
+        "dead": 1
+      },
+      "politicalParty": "Awami League",
+      "opposingParty": "Bangladesh Nationalist Party",
+      "date": "2024-02-14T10:45:00Z",
+      "severity": "high",
+      "imageUrl": "https://images.unsplash.com/photo-1586473219010-2ffc57b0d282?w=400",
+      "source": "The Financial Express",
+      "verified": true
+    },
+    {
+      "id": "evt_008",
+      "title": "Transport strike violence in Rangpur",
+      "summary": "Transport workers' strike turned violent when police attempted to clear blocked roads.",
+      "location": {
+        "lat": 25.7439,
+        "lng": 89.2752,
+        "address": "Rangpur city",
+        "division": "Rangpur",
+        "district": "Rangpur"
+      },
+      "casualties": {
+        "injured": 7,
+        "dead": 0
+      },
+      "politicalParty": "Transport Workers Union",
+      "opposingParty": "Law Enforcement",
+      "date": "2024-02-18T07:15:00Z",
+      "severity": "low",
+      "imageUrl": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=400",
+      "source": "Jugantor",
+      "verified": true
+    },
+    {
+      "id": "evt_009",
+      "title": "Border clash in Mymensingh",
+      "summary": "Tensions at the India-Bangladesh border led to confrontations involving border guards and local residents.",
+      "location": {
+        "lat": 24.7471,
+        "lng": 90.4203,
+        "address": "Mymensingh border area",
+        "division": "Mymensingh",
+        "district": "Mymensingh"
+      },
+      "casualties": {
+        "injured": 5,
+        "dead": 0
+      },
+      "politicalParty": "Border Guards",
+      "opposingParty": "Local Residents",
+      "date": "2024-02-22T15:30:00Z",
+      "severity": "medium",
+      "imageUrl": "https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=400",
+      "source": "Kaler Kantho",
+      "verified": false
+    },
+    {
+      "id": "evt_010",
+      "title": "Anti-government protest in Khulna",
+      "summary": "Opposition parties organized a large protest against government policies, leading to confrontations with law enforcement.",
+      "location": {
+        "lat": 22.8456,
+        "lng": 89.5403,
+        "address": "Khulna city center",
+        "division": "Khulna",
+        "district": "Khulna"
+      },
+      "casualties": {
+        "injured": 14,
+        "dead": 0
+      },
+      "politicalParty": "Opposition Alliance",
+      "opposingParty": "Law Enforcement",
+      "date": "2024-02-28T12:00:00Z",
+      "severity": "medium",
+      "imageUrl": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400",
+      "source": "The Independent",
+      "verified": true
+    }
+  ],
+  "metadata": {
+    "totalEvents": 10,
+    "lastUpdated": "2024-02-28T18:00:00Z",
+    "divisions": ["Dhaka", "Chittagong", "Sylhet", "Rajshahi", "Barisal", "Rangpur", "Mymensingh", "Khulna"],
+    "politicalParties": [
+      "Awami League",
+      "Bangladesh Nationalist Party", 
+      "Jamaat-e-Islami",
+      "Student Organizations",
+      "Labor Organizations",
+      "Transport Workers Union",
+      "Opposition Alliance"
+    ],
+    "severityLevels": {
+      "low": "Minor injuries, property damage",
+      "medium": "Multiple injuries, significant disruption",
+      "high": "Deaths, major violence, widespread impact"
+    }
+  }
+}
